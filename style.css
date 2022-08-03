@@ -28,11 +28,13 @@ img {
 }
 
 h1 {
+    margin-top: 0;
     color: var(--Dark-blue);
     font-size: 1.4rem;
 }
 
 p {
+    margin-top: 0;
     color: var(--Grayish-blue);
 }
 
